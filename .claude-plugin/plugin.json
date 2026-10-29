@@ -1,7 +1,7 @@
 {
   "name": "post-answer",
   "displayName": "Post Answer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Find what your audience is talking about, write in your brand's voice, post with your approval, run Auto DMs and read your Stats, from a conversation with Post Answer.",
   "author": {
     "name": "Allistar Media",
@@ -19,5 +19,9 @@
     "auto dm",
     "analytics"
   ],
-  "privacyPolicyUrl": "https://postanswer.com/privacy"
+  "repository": "https://github.com/allistaroxi/post-answer-plugin",
+  "documentationUrl": "https://postanswer.com/ai",
+  "supportUrl": "mailto:info@allistarmedia.io",
+  "privacyPolicyUrl": "https://postanswer.com/privacy",
+  "termsOfServiceUrl": "https://postanswer.com/terms"
 }
