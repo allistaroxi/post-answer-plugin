@@ -2,7 +2,7 @@
 
 Post Answer finds what your audience is talking about, helps you turn it into short videos and posts, posts them, answers comments with Auto DMs, and shows how each post did. This plugin brings Post Answer into Claude and ChatGPT: the Post Answer connector, plus skills that tell the assistant how to use it well.
 
-You need a Post Answer account. Start one at [postanswer.com](https://postanswer.com).
+You need a Post Answer account. Start one at [postanswer.com](https://postanswer.com). The full setup guide is at [postanswer.com/ai](https://postanswer.com/ai).
 
 ## Install
 
@@ -53,6 +53,6 @@ You can see and disconnect every connection in Post Answer under Settings, Conne
 
 The assistant sends your requests to Post Answer at postanswer.com and gets back the data it asks for: your saved topics and research, posts, Stats, Auto DMs and leads, and your brand voice, only for the workspaces and permissions you allowed. Post Answer keeps a short record of each call (which tool, when, whether it worked) for 90 days to enforce limits and to help with support. It does not store your chat. The plugin itself stores nothing and contains no keys.
 
-[Privacy policy](https://postanswer.com/privacy) · [Terms](https://postanswer.com/terms) · Support: [info@allistarmedia.io](mailto:info@allistarmedia.io)
+[Setup guide](https://postanswer.com/ai) · [Privacy policy](https://postanswer.com/privacy) · [Terms](https://postanswer.com/terms) · Support: [info@allistarmedia.io](mailto:info@allistarmedia.io)
 
 Post Answer is a product of Allistar Media.
