@@ -1,0 +1,22 @@
+{
+  "name": "post-answer",
+  "displayName": "Post Answer",
+  "version": "0.1.0",
+  "description": "Find what your audience is talking about, write in your brand's voice, post with your approval, run Auto DMs and read your Stats, from a conversation with Post Answer.",
+  "author": {
+    "name": "Allistar Media",
+    "email": "info@allistarmedia.io",
+    "url": "https://postanswer.com"
+  },
+  "homepage": "https://postanswer.com",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "content ideas",
+    "short video",
+    "instagram",
+    "tiktok",
+    "auto dm",
+    "analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "post-answer",
+  "owner": {
+    "name": "Allistar Media",
+    "email": "info@allistarmedia.io"
+  },
+  "metadata": {
+    "description": "The Post Answer plugin for Claude: the Post Answer connector and its workflow skills."
+  },
+  "plugins": [
+    {
+      "name": "post-answer",
+      "source": "./",
+      "description": "Find what your audience is talking about, write in your brand's voice, post with your approval, run Auto DMs and read your Stats, from a conversation with Post Answer.",
+      "version": "0.1.0"
+    }
+  ]
+}
